@@ -5,9 +5,11 @@ plugins:
   
 include: ["_pages"]
 
-site.locale: ru-RU
+site.locale: "ru-RU"
 
 title: "Страховой Брокер Скала"
+
+logo: "/assets/images/logo.jpg"
 
 description: ""
 
