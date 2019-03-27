@@ -1,6 +1,5 @@
 ---
 layout: single
-toc: true
 sidebar:
   nav: "s_about"
 ---
