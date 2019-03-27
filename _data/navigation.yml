@@ -9,3 +9,23 @@ main:
     url: /partners
   - title: "Контакты"
     url: /contacts
+
+s_about:
+  - title: "О НАС"
+   url: /about/
+  - title: "НАШИ УСЛУГИ"
+  url: /about/services
+  - title: "НАШИ ГАРАНТИИ"
+  url: /about/guaranty
+  - title: "УСЛОВИЯ СТРАХОВАНИЯ"
+  url: /about/terms
+  - title: "СТРАХОВЩИКИ"
+  url: /about/insurers
+  
+s_partn:
+  - title: "ПЕРЕСТРАХОВАТЕЛИ"
+  url: /partners/clients
+  - title: "ПЕРЕСТРАХОВЩИКИ"
+  url: /partners/creinsurers
+  - title: "СТРАХОВЩИКИ"
+  url: /partners/insurer
