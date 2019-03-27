@@ -1,4 +1,4 @@
 ---
-layout: home
+layout: single
 title: "Наша команда"
 ---
