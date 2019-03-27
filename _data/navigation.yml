@@ -13,20 +13,20 @@ main:
 
 s_about:
   - title: "О НАС"
-  url: /about/
+    url: /about/
   - title: "НАШИ УСЛУГИ"
-  url: /about/services
+    url: /about/services
   - title: "НАШИ ГАРАНТИИ"
-  url: /about/guaranty
+    url: /about/guaranty
   - title: "УСЛОВИЯ СТРАХОВАНИЯ"
-  url: /about/terms
+    url: /about/terms
   - title: "СТРАХОВЩИКИ"
-  url: /about/insurers
+    url: /about/insurers
   
 s_partn:
   - title: "ПЕРЕСТРАХОВАТЕЛИ"
-  url: /partners/clients
+    url: /partners/clients
   - title: "ПЕРЕСТРАХОВЩИКИ"
-  url: /partners/creinsurers
+    url: /partners/creinsurers
   - title: "СТРАХОВЩИКИ"
-  url: /partners/insurer
+    url: /partners/insurer
