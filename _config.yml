@@ -4,8 +4,16 @@ plugins:
   - jekyll-include-cache
   
 include: ["_pages"]
+
+site.locale: ru-RU
+
+title: "Страховой Брокер Скала"
+
+description: ""
+
+search: true
   
-  defaults:
+defaults:
   # _posts
   - scope:
       path: ""
