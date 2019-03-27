@@ -12,7 +12,7 @@ main:
 
 s_about:
   - title: "О НАС"
-   url: /about/
+  url: /about/
   - title: "НАШИ УСЛУГИ"
   url: /about/services
   - title: "НАШИ ГАРАНТИИ"
