@@ -3,7 +3,6 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
   
-include: ["_pages"]
 
 site.locale: "ru-RU"
 
