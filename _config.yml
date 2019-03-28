@@ -3,7 +3,7 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache  
 
-site.locale: "ru-RU"
+site.locale: "ru"
 
 title: "Страховой Брокер Скала"
 
