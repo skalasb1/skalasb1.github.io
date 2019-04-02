@@ -16,7 +16,7 @@ search: false
   
 defaults:        
   - scope:
-      path: "/"
+      path: ""
       type: pages
     values:
       layout: splash
