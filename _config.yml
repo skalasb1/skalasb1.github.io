@@ -14,12 +14,7 @@ description: ""
 search: false
   
 defaults:
-  - scope:
-      path: "/"
-      type: pages
-    values:
-      layout: single
-      
+        
   - scope:
       path: "about"
       type: pages
