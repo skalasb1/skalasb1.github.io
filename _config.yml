@@ -16,13 +16,20 @@ search: false
   
 defaults:        
   - scope:
+      path: "/"
+      type: pages
+    values:
+      layout: splash
+
+        
+   - scope:
       path: "about"
       type: pages
     values:
       layout: single
       sidebar:
         nav: "s_about"
-      
+        
   - scope:
       path: "services"
       type: pages
