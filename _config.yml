@@ -14,8 +14,7 @@ description: ""
 
 search: false
   
-defaults:
-        
+defaults:        
   - scope:
       path: "about"
       type: pages
