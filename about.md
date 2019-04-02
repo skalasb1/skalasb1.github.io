@@ -2,6 +2,9 @@
 layout: single
 sidebar:
   nav: "s_about"
+header:
+  overlay_image: 
+        /assets/images/mountains1.jpg      
 ---
 
 
