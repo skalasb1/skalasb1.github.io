@@ -15,14 +15,14 @@ description: ""
 search: false
   
 defaults:        
-   - scope:
+  - scope:
       path: "/"
       type: pages
     values:
       layout: splash
 
         
-   - scope:
+  - scope:
       path: "about"
       type: pages
     values:
