@@ -10,21 +10,55 @@ main:
   - title: "Контакты"
     url: /contacts
 
-
 s_about:
   - title: "Информация"
-    url: /info
+    url: /about/info
   - title: "Лицензия"
-    url: /license
+    url: /about/license
   - title: "Руководство"
-    url: /managers
+    url: /about/managers
   - title: "История"
-    url: /story
+    url: /about/story
   
-s_partn:
+s_services:
+ - title: "Перестрахование"
+    url: /services/reinsurance
+ - title: "Страхование"
+    url: /services/insurance
+ - title: "Консалтинг"
+    url: /services/consulting
+ - title: "Урегулирование"
+    url: /services/settlement
+
+s_reinsurance:
+  - title: "Имущество"
+    url: /reinsurance/property
+  - title: "Авиация"
+    url: /reinsurance/2
+ - title: "Строймонтаж"
+    url: /reinsurance/3
+ - title: "Грузы"
+    url: /reinsurance/4
+ - title: "Ответственность"
+    url: /reinsurance/5
+ - title: "Нефтяные риски"
+    url: /reinsurance/6
+ - title: "Каско"
+    url: /reinsurance/7
+ - title: "Сельхоз страхование"
+    url: /reinsurance/8
+ - title: "Несчастный случай"
+    url: /reinsurance/9
+ - title: "Финансовые риски"
+    url: /reinsurance/10
+   
+s_partners:
   - title: "Страховщики"
-    url: /insurers
+    url: /partners/insurers
   - title: "Перестраховщики"
-    url: /reinsurers
+    url: /partners/reinsurers
   - title: "Отзывы"
-    url: /comments
+    url: /partners/comments
+    
+
+    
