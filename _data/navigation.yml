@@ -1,10 +1,10 @@
 main:
   - title: "О компании"
     url: /about
-  - title: "Новости"
-    url: /news
-  - title: "Наша команда"
-    url: /team
+  - title: "Услуги"
+    url: /services
+  - title: "Перестрахование"
+    url: /reinsurance
   - title: "Партнеры"
     url: /partners
   - title: "Контакты"
@@ -12,21 +12,19 @@ main:
 
 
 s_about:
-  - title: "О НАС"
-    url: /about/
-  - title: "НАШИ УСЛУГИ"
-    url: /about/services
-  - title: "НАШИ ГАРАНТИИ"
-    url: /about/guaranty
-  - title: "УСЛОВИЯ СТРАХОВАНИЯ"
-    url: /about/terms
-  - title: "СТРАХОВЩИКИ"
-    url: /about/insurers
+  - title: "Информация"
+    url: /info
+  - title: "Лицензия"
+    url: /license
+  - title: "Руководство"
+    url: /managers
+  - title: "История"
+    url: /story
   
 s_partn:
-  - title: "ПЕРЕСТРАХОВАТЕЛИ"
-    url: /partners/clients
-  - title: "ПЕРЕСТРАХОВЩИКИ"
-    url: /partners/creinsurers
-  - title: "СТРАХОВЩИКИ"
-    url: /partners/insurer
+  - title: "Страховщики"
+    url: /insurers
+  - title: "Перестраховщики"
+    url: /reinsurers
+  - title: "Отзывы"
+    url: /comments
