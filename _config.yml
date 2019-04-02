@@ -13,6 +13,9 @@ logo: "/assets/images/logo.jpg"
 description: ""
 
 search: false
+
+footer:
+  links:
   
 defaults:        
   - scope:
