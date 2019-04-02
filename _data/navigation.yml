@@ -21,13 +21,13 @@ s_about:
     url: /about/story
   
 s_services:
- - title: "Перестрахование"
+  - title: "Перестрахование"
     url: /services/reinsurance
- - title: "Страхование"
+  - title: "Страхование"
     url: /services/insurance
- - title: "Консалтинг"
+  - title: "Консалтинг"
     url: /services/consulting
- - title: "Урегулирование"
+  - title: "Урегулирование"
     url: /services/settlement
 
 s_reinsurance:
@@ -35,21 +35,21 @@ s_reinsurance:
     url: /reinsurance/property
   - title: "Авиация"
     url: /reinsurance/2
- - title: "Строймонтаж"
+  - title: "Строймонтаж"
     url: /reinsurance/3
- - title: "Грузы"
+  - title: "Грузы"
     url: /reinsurance/4
- - title: "Ответственность"
+  - title: "Ответственность"
     url: /reinsurance/5
- - title: "Нефтяные риски"
+  - title: "Нефтяные риски"
     url: /reinsurance/6
- - title: "Каско"
+  - title: "Каско"
     url: /reinsurance/7
- - title: "Сельхоз страхование"
+  - title: "Сельхоз страхование"
     url: /reinsurance/8
- - title: "Несчастный случай"
+  - title: "Несчастный случай"
     url: /reinsurance/9
- - title: "Финансовые риски"
+  - title: "Финансовые риски"
     url: /reinsurance/10
    
 s_partners:
