@@ -1,0 +1,9 @@
+---
+title: "Заголовок"
+sidebar:
+  nav: "s_reinsurance"
+layout: single1
+header:
+  image: /assets/images/mountains1.jpg
+      
+---
