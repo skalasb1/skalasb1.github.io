@@ -15,7 +15,7 @@ description: ""
 search: false
   
 defaults:        
-  - scope:
+   - scope:
       path: "/"
       type: pages
     values:
