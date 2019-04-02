@@ -15,7 +15,7 @@ description: ""
 search: false
 
 footer:
-  links:{}
+  links:[]
   
 defaults:        
   - scope:
