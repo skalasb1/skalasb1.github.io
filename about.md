@@ -1,5 +1,5 @@
 ---
-layout: single
+title: "О компании"
 sidebar:
   nav: "s_about"
 header:
