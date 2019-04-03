@@ -6,3 +6,4 @@ layout: splash
 header:
   image: "/assets/images/mountains1.jpg"
 ---
+Тут текст
