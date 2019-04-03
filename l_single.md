@@ -6,3 +6,4 @@ layout: single
 header:
   image: "/assets/images/mountains1.jpg"
 ---
+Тут текст
