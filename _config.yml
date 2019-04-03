@@ -26,6 +26,7 @@ defaults:
       layout: single
       header:
         overlay_image: "/assets/images/mountains1.jpg"
+        overlay_color: "#00f"
 
         
   - scope:
