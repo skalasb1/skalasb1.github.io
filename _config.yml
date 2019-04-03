@@ -24,6 +24,8 @@ defaults:
       type: pages
     values:
       layout: single
+      header:
+        overlay_image: "/assets/images/mountains1.jpg"
 
         
   - scope:
