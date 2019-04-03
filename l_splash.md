@@ -2,5 +2,7 @@
 title: "Заголовок"
 sidebar:
   nav: "s_reinsurance"
-layout: splash  
+layout: splash
+header:
+  image: "/assets/images/mountains1.jpg"
 ---
