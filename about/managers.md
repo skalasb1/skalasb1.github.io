@@ -1,5 +1,5 @@
 ---
-
+title: "Руководство"
 ---
 
 ![image-left](/assets/images/gendirfoto.jpg){: .align-left}
